@@ -28,4 +28,12 @@ This repository focuses on collecting free resources to learn Computers and IT r
 
 [CompTIA Network+ Certification Video Course - PowerCert Animated Videos](https://www.youtube.com/watch?v=vrh0epPAC5w)
 
+# Linux
+
+[Linux in 100 Seconds - Fireship](https://youtu.be/rrB13utjYV4)
+
+[The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners - freecodecamp.org](https://youtu.be/ZtqBQ68cfJc)
+
+[Linux Basics for the Aspiring Hacker - Nullbyte](https://null-byte.wonderhowto.com/how-to/linux-basics/)
+
 # Security
