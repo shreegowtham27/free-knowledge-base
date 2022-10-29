@@ -24,4 +24,8 @@ This repository focuses on collecting free resources to learn Computers and IT r
 
 # Networking
 
+[Computer Networking Full Course - OSI Model Deep Dive with Real Life Examples -  Kunal Kushwaha](https://youtu.be/IPvYjXCsTg8)
+
+[CompTIA Network+ Certification Video Course - PowerCert Animated Videos](https://www.youtube.com/watch?v=vrh0epPAC5w)
+
 # Security
