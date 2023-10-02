@@ -1,7 +1,6 @@
-# free-knowledge-base
+# Free-knowledge-base
 
 This repository focuses on collecting free resources to learn Computers and IT related stuffs like Programming, Networking, DevOps and also into Security things.
-
 
 # Programming Langauages
 
