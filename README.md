@@ -46,6 +46,12 @@ This repository focuses on collecting free resources to learn Computers and IT r
 [Linux Basics for the Aspiring Hacker - Nullbyte](https://null-byte.wonderhowto.com/how-to/linux-basics/)
 
 
+# Data Engineering
+
+## PySpark
+
+[Spark By {Examples}](https://sparkbyexamples.com/)
+
 # DevOps
 
 ## Docker
