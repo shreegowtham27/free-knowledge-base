@@ -30,6 +30,8 @@ This repository focuses on collecting free resources to learn Computers and IT r
 
 [React JS - React Tutorial for Beginners - Programming with Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0)
 
+[React for Beginners by Codevolution](https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&ab_channel=Codevolution)
+
 
 # Networking
 
