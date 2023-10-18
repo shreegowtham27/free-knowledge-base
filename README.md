@@ -60,6 +60,8 @@ This repository focuses on collecting free resources to learn Computers and IT r
 
 [DevOps CI/CD Explained in 100 Seconds](https://www.youtube.com/watch?v=scEDHsr3APg)
 
+[CI/CD Pipeline Explained in Simple Terms - ByteByteGoHq ](https://github.com/ByteByteGoHq/system-design-101#cicd-pipeline-explained-in-simple-terms)
+
 ## Docker
 
 [Containerization Explained - IBM Technology](https://www.youtube.com/watch?v=0qotVMX-J5s)
