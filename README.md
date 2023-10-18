@@ -6,7 +6,7 @@ This repository focuses on collecting free resources to learn Computers and IT r
 
 ## GIT
 
-[Git By KeeerthiVasan](https://www.youtube.com/)
+[Git By KeeerthiVasan](https://www.youtube.com/watch?v=Y3C1y89VTk0&list=PLWPzVEMaawH1d9vfH4-WxjmbxSL64fLV5)
 
 # Programming Langauages
 
