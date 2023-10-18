@@ -77,4 +77,19 @@ This repository focuses on collecting free resources to learn Computers and IT r
 
 [Kubernetes Tutorial for Beginners FULL COURSE in 4 Hours - TechWorld with Nana](https://www.youtube.com/watch?v=X48VuDVv0do)
 
+# DSA
+
+## Useful Links
+- [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
+- [Algorithm Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+
+## Books
+- [Coding Interview Patterns](https://dvpr.gitbook.io/coding-interview-patterns/)
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
+
+## YouTube Playlists
+- [FreeCodeCamp - Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0)
+- [Abdul Bari - Introduction to Algorithm](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+
+
 # Security
