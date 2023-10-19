@@ -30,6 +30,8 @@ This repository focuses on collecting free resources to learn Computers and IT r
 
 [React JS - React Tutorial for Beginners - Programming with Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0)
 
+[React for Beginners by Codevolution](https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&ab_channel=Codevolution)
+
 
 # Networking
 
@@ -46,11 +48,19 @@ This repository focuses on collecting free resources to learn Computers and IT r
 [Linux Basics for the Aspiring Hacker - Nullbyte](https://null-byte.wonderhowto.com/how-to/linux-basics/)
 
 
+# Data Engineering
+
+## PySpark
+
+[Spark By {Examples}](https://sparkbyexamples.com/)
+
 # DevOps
 
 ## CI/CD
 
 [DevOps CI/CD Explained in 100 Seconds](https://www.youtube.com/watch?v=scEDHsr3APg)
+
+[CI/CD Pipeline Explained in Simple Terms - ByteByteGoHq ](https://github.com/ByteByteGoHq/system-design-101#cicd-pipeline-explained-in-simple-terms)
 
 ## Docker
 
@@ -66,5 +76,20 @@ This repository focuses on collecting free resources to learn Computers and IT r
 ## Kubernetes
 
 [Kubernetes Tutorial for Beginners FULL COURSE in 4 Hours - TechWorld with Nana](https://www.youtube.com/watch?v=X48VuDVv0do)
+
+# DSA
+
+## Useful Links
+- [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
+- [Algorithm Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+
+## Books
+- [Coding Interview Patterns](https://dvpr.gitbook.io/coding-interview-patterns/)
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
+
+## YouTube Playlists
+- [FreeCodeCamp - Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0)
+- [Abdul Bari - Introduction to Algorithm](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+
 
 # Security
