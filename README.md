@@ -68,10 +68,11 @@ This repository focuses on collecting free resources to learn Computers and IT r
 
 [Docker Containers and Kubernetes Fundamentals – Full Hands-On Course - freeCodeCamp.org](https://www.youtube.com/watch?v=kTp5xUtcalw)
 
-
 [Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers - freeCodeCamp.org](https://www.youtube.com/watch?v=fqMOX6JJhGo)
 
 [Docker Tutorial for Beginners FULL COURSE in 3 Hours - TechWorld with Nana](https://www.youtube.com/watch?v=3c-iBn73dDE)
+
+[Docker Core Concepts in Simplified Terms](https://iximiuz.com/en/)
 
 ## Kubernetes
 
