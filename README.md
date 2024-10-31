@@ -80,6 +80,8 @@ This repository focuses on collecting free resources to learn Computers and IT r
 
 [Kubernetes Tutorial for Beginners FULL COURSE in 4 Hours - TechWorld with Nana](https://www.youtube.com/watch?v=X48VuDVv0do)
 
+[Complete Kubernetes Course - From BEGINNER to PRO](https://www.youtube.com/watch?v=2T86xAtR6Fo&ab_channel=DevOpsDirective)
+
 # DSA
 
 ## Useful Links
